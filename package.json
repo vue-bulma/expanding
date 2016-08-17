@@ -1,0 +1,23 @@
+{
+  "name": "vue-bulma-expanding",
+  "version": "0.0.0",
+  "description": "The expanding transition component for Vue Bulma",
+  "main": "src/Expanding.vue",
+  "peerDependencies": {
+    "bulma": "^0.1",
+    "vue": ">=2.0.0-beta.0"
+  },
+  "scripts": {},
+  "repository": "git+https://github.com/vue-bulma/expanding.git",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-expanding",
+    "expanding",
+    "transition"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT"
+}
