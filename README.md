@@ -5,7 +5,7 @@ The Expanding Transition Component for Vue 2.0
 ## Installation
 
 ```
-$ npm install vue-bulma-expanding
+$ npm install vue-bulma-expanding --save
 ```
 
 ## Examples
