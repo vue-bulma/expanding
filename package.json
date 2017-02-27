@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-expanding",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The expanding transition component for Vue Bulma",
   "main": "src/Expanding.vue",
   "peerDependencies": {
