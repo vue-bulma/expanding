@@ -4,11 +4,10 @@
   "description": "The expanding transition component for Vue Bulma",
   "main": "src/Expanding.vue",
   "peerDependencies": {
-    "bulma": "^0.2",
-    "vue": ">=2.0.0-beta.0"
+    "bulma": ">=0.2",
+    "vue": ">=2"
   },
-  "scripts": {},
-  "repository": "git+https://github.com/vue-bulma/expanding.git",
+  "repository": "vue-bulma/expanding",
   "keywords": [
     "vue",
     "bulma",
