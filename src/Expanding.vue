@@ -20,11 +20,13 @@ export default {
     },
     afterEnter (el) {
       el.classList.remove('collapsing')
-      el.classList.add('collapse', 'in')
+      el.classList.add('collapse')
+      el.classList.add('in')
     },
     beforeLeave (el) {
       el.classList.add('collapsing')
-      el.classList.remove('collapse', 'in')
+      el.classList.remove('collapse')
+      el.classList.remove('in')
       el.style.height = 0
     },
     afterLeave (el) {
